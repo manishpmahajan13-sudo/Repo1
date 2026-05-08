@@ -50,7 +50,7 @@ def home():
 
             <div class="card">
                 <h2>Developed By</h2>
-                <p>Your Name</p>
+                <p>Manish Mahajan</p>
             </div>
         </div>
     </body>
